@@ -1,5 +1,5 @@
-pi-power
-========
+pi-power bootstrapped
+=====================
 
 Web interface for Raspberry Pi Energenie Pi-Mote.
 
@@ -9,6 +9,5 @@ Visit the project web page at [PenguinTutor.com/pi-power](http://www.penguintuto
 
 Credits:
 Created by [Stewart Watkiss](https://github.com/penguintutor)
-Uses the Python energenie module available on [PythonHosted] (http://pythonhosted.org/energenie)
-
-
+Uses the Python energenie module available on [PythonHosted] (http://pythonhosted.org/energenie) 
+Bootstrapped by [dfourn](https://github.com/dfourn)
